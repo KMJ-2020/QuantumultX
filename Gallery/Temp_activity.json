@@ -1,0 +1,7 @@
+{
+ "name": "Temp_activity手动执行2次",
+ "description": "感谢代码贡献者，懒人我不一一列出，自寻网址内作者",
+ "task": [
+     "* * * * * https://storage.googleapis.com/jd_live/jd_opencard.js, tag=开卡入会, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/JD_DailyBonus.png",
+     ]
+}
