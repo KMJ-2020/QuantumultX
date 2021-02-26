@@ -6,6 +6,12 @@
 分类
 --
 
+QuantumultX配置
+--
+|QuantumultX|小白勿动|  |  |
+| ---- | ---- | ---- | ---- |
+|[QuantumultX空白配置](https://github.com/KMJ-2020/QuantumultX/blob/main/QuantumultX_Default.conf)
+
 Gallery
 --
 |Gallery|  |  |  |
