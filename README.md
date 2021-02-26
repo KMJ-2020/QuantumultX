@@ -34,7 +34,7 @@ Rule
 --
 |SoftWare|  |  |  |
 | ---- | ---- | ---- | ---- |
-|[暂无](https://github.com/KMJ-2020)
+|[暂无](https://github.com/KMJ-2020/QuantumultX)
 
 |Games|  |  |  |
 | ---- | ---- | ---- | ---- |
