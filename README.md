@@ -28,11 +28,15 @@ ReWrite
 --
 |ReWrite|  |  |  |
 | ---- | ---- | ---- | ---- |
-|[辅助模块](https://github.com/KMJ-2020/QuantumultX/blob/main/Rewrite/Support.sgmodule) |[Cookie获取合集](https://github.com/KMJ-2020/QuantumultX/blob/main/Rewrite/getck-all-in-one.conf) |
+|[辅助模块](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/Support.sgmodule) |[Cookie获取合集](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/Get_Cookie_All_In_One.conf) |
 
 Rule
 --
+|SoftWare|  |  |  |
+| ---- | ---- | ---- | ---- |
+|[暂无](https://github.com/KMJ-2020)
+
 |Games|  |  |  |
 | ---- | ---- | ---- | ---- |
-|[WiidRift](https://github.com/KMJ-2020/QuantumultX/tree/main/Rule/Game/WildRift)
+|[WiidRift](https://github.com/KMJ-2020/QuantumultX/blob/main/Rule/Games/WildRift/Wild_Rift.list)
 
