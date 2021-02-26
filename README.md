@@ -5,8 +5,28 @@
 
 分类
 --
+
 Gallery
 --
 |Gallery|  |  |  |
 | ---- | ---- | ---- | ---- |
 |[京东其他签到](https://github.com/KMJ-2020/QuantumultX/blob/main/Gallery/JD_Other_Task_Gallery.json) |[其他签到](https://github.com/KMJ-2020/QuantumultX/blob/main/Gallery/Other_Task_Gallery.json) |
+
+General
+--
+|General|  |  |  |
+| ---- | ---- | ---- | ---- |
+|[IPCheck](https://github.com/KMJ-2020/QuantumultX/blob/main/General/IPcheck.js) |
+
+ReWrite
+--
+|ReWrite|  |  |  |
+| ---- | ---- | ---- | ---- |
+|[辅助模块](https://github.com/KMJ-2020/QuantumultX/blob/main/Rewrite/Support.sgmodule) |[Cookie获取合集](https://github.com/KMJ-2020/QuantumultX/blob/main/Rewrite/getck-all-in-one.conf) |
+
+Rule
+--
+|Games|  |  |  |
+| ---- | ---- | ---- | ---- |
+|[WiidRift](https://github.com/KMJ-2020/QuantumultX/tree/main/Rule/Game/WildRift)
+
