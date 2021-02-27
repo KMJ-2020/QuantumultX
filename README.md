@@ -8,13 +8,13 @@
 
 QuantumultX配置
 --
-|QuantumultX| |
+|QuantumultX|小白勿动|
 | ---- | ---- |
 |[QuantumultX空白配置](https://github.com/KMJ-2020/QuantumultX/blob/main/QuantumultX_Default.conf) |小白勿动|
 
 Gallery
 --
-|Gallery|
+|Gallery| |
 | ---- | ---- |
 |[京东其他签到](https://github.com/KMJ-2020/QuantumultX/blob/main/Gallery/JD_Other_Task_Gallery.json) |[其他签到](https://github.com/KMJ-2020/QuantumultX/blob/main/Gallery/Other_Task_Gallery.json) |
 
