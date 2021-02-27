@@ -28,7 +28,7 @@ ReWrite
 --
 |ReWrite|  |  |  |
 | ---- | ---- | ---- | ---- |
-|[辅助模块](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/Support.sgmodule) |[Cookie获取合集](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/Get_Cookie_All_In_One.conf) |
+|[辅助模块](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/Support.sgmodule) |[Cookie获取合集](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/Get_Cookie_All_In_One.conf) [京东淘宝比价](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/JD_TB_Price.conf)|[微信去广告](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/Remove_Wechat_AD.conf)|
 
 Rule
 --
@@ -40,3 +40,15 @@ Rule
 | ---- | ---- | ---- | ---- |
 |[WiidRift](https://github.com/KMJ-2020/QuantumultX/blob/main/Rule/Games/WildRift/Wild_Rift.list)
 
+
+特别感谢所有代码提供者（排名不分先后）未提及到的请谅解！！！
+--
+
+[@lxk0301](https://github.com/lxk0301)
+[@NobyDa](https://github.com/NobyDa)
+[@yichahucha](https://github.com/yichahucha)
+[@blackmatrix7](https://github.com/blackmatrix7)
+[@Sunert](https://github.com/Sunert)
+[@zZPiglet](https://github.com/zZPiglet)
+[@Peng-YM](https://github.com/Peng-YM)
+[and so on...]
