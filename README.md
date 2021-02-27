@@ -8,20 +8,20 @@
 
 QuantumultX配置
 --
-|QuantumultX| |  |  |
-| ---- | ---- | ---- | ---- |
+|QuantumultX| |
+| ---- | ---- |
 |[QuantumultX空白配置](https://github.com/KMJ-2020/QuantumultX/blob/main/QuantumultX_Default.conf) |小白勿动|
 
 Gallery
 --
-|Gallery|  |  |  |
-| ---- | ---- | ---- | ---- |
+|Gallery|
+| ---- | ---- |
 |[京东其他签到](https://github.com/KMJ-2020/QuantumultX/blob/main/Gallery/JD_Other_Task_Gallery.json) |[其他签到](https://github.com/KMJ-2020/QuantumultX/blob/main/Gallery/Other_Task_Gallery.json) |
 
 General
 --
-|General|  |  |  |
-| ---- | ---- | ---- | ---- |
+|General|
+| ---- |
 |[IPCheck](https://github.com/KMJ-2020/QuantumultX/blob/main/General/IPcheck.js) |
 
 ReWrite
@@ -32,12 +32,12 @@ ReWrite
 
 Rule
 --
-|SoftWare|  |  |  |
-| ---- | ---- | ---- | ---- |
+|SoftWare|
+| ---- |
 |[暂无](https://github.com/KMJ-2020/QuantumultX)
 
-|Games|  |  |  |
-| ---- | ---- | ---- | ---- |
+|Games|
+| ---- |
 |[WiidRift](https://github.com/KMJ-2020/QuantumultX/blob/main/Rule/Games/WildRift/Wild_Rift.list)
 
 
