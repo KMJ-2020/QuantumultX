@@ -28,7 +28,7 @@ ReWrite
 --
 |ReWrite|  |  |  |
 | ---- | ---- | ---- | ---- |
-|[辅助模块](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/Support.sgmodule) |[Cookie获取合集](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/Get_Cookie_All_In_One.conf) [京东淘宝比价](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/JD_TB_Price.conf)|[微信去广告](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/Remove_Wechat_AD.conf)|
+|[辅助模块](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/Support.sgmodule) |[Cookie获取合集](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/Get_Cookie_All_In_One.conf)| [京东淘宝比价](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/JD_TB_Price.conf)|[微信去广告](https://github.com/KMJ-2020/QuantumultX/blob/main/ReWrite/Remove_Wechat_AD.conf)|
 
 Rule
 --
