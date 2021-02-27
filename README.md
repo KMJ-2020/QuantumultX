@@ -45,10 +45,17 @@ Rule
 --
 
 [@lxk0301](https://github.com/lxk0301)
+
 [@NobyDa](https://github.com/NobyDa)
+
 [@yichahucha](https://github.com/yichahucha)
+
 [@blackmatrix7](https://github.com/blackmatrix7)
+
 [@Sunert](https://github.com/Sunert)
+
 [@zZPiglet](https://github.com/zZPiglet)
+
 [@Peng-YM](https://github.com/Peng-YM)
-[and so on...]
+
+and so on...
