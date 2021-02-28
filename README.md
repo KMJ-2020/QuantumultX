@@ -44,7 +44,7 @@ Rule
 特别感谢所有代码提供者（排名不分先后）未提及到的请谅解！！！
 --
 
-[@lxk0301]
+@lxk0301
 
 [@NobyDa](https://github.com/NobyDa)
 
