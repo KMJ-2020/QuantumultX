@@ -22,7 +22,7 @@ General
 --
 |General|
 | ---- |
-|[IPCheck](https://github.com/KMJ-2020/QuantumultX/blob/main/General/IPcheck.js) |
+|[IPCheck](https://github.com/KMJ-2020/QuantumultX/blob/main/General/IPCheck.js) |
 
 ReWrite
 --
