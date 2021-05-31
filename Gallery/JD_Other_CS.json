@@ -3,7 +3,7 @@
  "description": "Thanks_for_Everyone",
  "task": [
     "5 0 * * * https://raw.githubusercontent.com/KMJ-2020/QuantumultX/main/Scripts/jd_fruit.js, tag=东东农场自用互助, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png, enabled=true",
-    "5 0 * * * https://raw.githubusercontent.com/KMJ-2020/QuantumultX/main/Scripts/jd_dreamFactory.js, tag=京喜工厂自用互助, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png, enabled=true",
+    "0 1,2,3 * * * https://raw.githubusercontent.com/KMJ-2020/QuantumultX/main/Scripts/jd_dreamFactory.js, tag=京喜工厂自用互助, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png, enabled=true",
     "5 0 * * * https://raw.githubusercontent.com/KMJ-2020/QuantumultX/main/Scripts/jd_pet.js, tag=东东萌宠自用互助, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdmc.png, enabled=true",
     "5 0 * * * https://raw.githubusercontent.com/KMJ-2020/QuantumultX/main/Scripts/jd_plantBean.js, tag=种豆得豆自用互助, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, enabled=true",
    ]
