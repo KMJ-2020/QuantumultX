@@ -31,8 +31,8 @@ let helpAuthor = true;
 const randomCount = $.isNode() ? 5 : 5;
 let cash_exchange = false;//是否消耗2元红包兑换200京豆，默认否
 const inviteCodes = [
-  `WGZNce6yZP0@eU9Ya7q2N_Qn9m7QwyAR0A@ZE9iO4vyJ4J0ljGUsCw@eU9Yab3nNf4n9zrdnXNCgw@eU9YaeW2Y6km-GrczHtH1g@eU9Yab67ZK9w-W_Sn3ZBgw@eU9YG4TtLpZVmCqJrRFr@-oiJtVwPv02z9GzU@eU9Yarq2MPty9GuBmXVB1Q@eU9Ya7_hYql39zvVyyca3w@eU9Yabjmb65w9juHySER3w@Jh43a-y1Y_zwXNA`,
-  `WGZNce6yZP0@eU9Ya7q2N_Qn9m7QwyAR0A@ZE9iO4vyJ4J0ljGUsCw@eU9Yab3nNf4n9zrdnXNCgw@eU9YaeW2Y6km-GrczHtH1g@eU9Yab67ZK9w-W_Sn3ZBgw@eU9YG4TtLpZVmCqJrRFr@-oiJtVwPv02z9GzU@eU9Yarq2MPty9GuBmXVB1Q@eU9Ya7_hYql39zvVyyca3w@eU9Yabjmb65w9juHySER3w@Jh43a-y1Y_zwXNA`
+  `WGZNce6yZP0@eU9Ya7q2N_Qn9m7QwyAR0A@ZE9iO4vyJ4J0ljGUsCw@eU9Yab3nNf4n9zrdnXNCgw@eU9YaeW2Y6km-GrczHtH1g`,
+  `WGZNce6yZP0@eU9Ya7q2N_Qn9m7QwyAR0A@ZE9iO4vyJ4J0ljGUsCw@eU9Yab3nNf4n9zrdnXNCgw@eU9YaeW2Y6km-GrczHtH1g`
 ]
 if ($.isNode()) {
   Object.keys(jdCookieNode).forEach((item) => {
