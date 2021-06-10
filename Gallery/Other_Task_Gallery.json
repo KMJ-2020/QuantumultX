@@ -1,5 +1,5 @@
 {
- "name": "Other_Task-21.6.5",
+ "name": "Other_Task-21.6.10",
  "description": "Thanks_Everyone",
  "task": [
     "20 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/iQIYI.png",
