@@ -1,0 +1,14 @@
+# NAME: ABC&CCB
+# AUTHOR: KMJ-2020
+# DOMAIN: abchina.com / abc.cn / 95599.* (ALL SUBDOMAINS)
+# UPDATED: 2026-01-11
+# TYPE: HOST-SUFFIX RULESET
+# 中国农业银行&建设银行
+HOST-SUFFIX,abchina.com,Bank
+HOST-SUFFIX,abc.cn,Bank
+HOST-SUFFIX,95599.cn,Bank
+HOST-SUFFIX,95599.com,Bank
+HOST-SUFFIX,ccb.com,Bank
+HOST-SUFFIX,ccb.cn,Bank
+HOST-SUFFIX,95533.cn,Bank
+HOST-SUFFIX,95533.com,Bank
